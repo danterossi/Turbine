@@ -36,3 +36,4 @@
 0:0:0:0:0:0:0:1 - - [05/Jul/2016:11:32:14 -0400] "GET /turbine/turbine.stream?cluster=CmsHystrixCluster HTTP/1.1" 404 995
 127.0.0.1 - - [05/Jul/2016:11:45:41 -0400] "GET /turbine-web-1.0.0/turbine.stream?cluster=CmsHystrixCluster HTTP/1.1" 200 802643
 0:0:0:0:0:0:0:1 - - [05/Jul/2016:11:45:44 -0400] "GET /turbine-web-1.0.0/turbine.stream?cluster=CmsHystrixCluster HTTP/1.1" 200 832109
+0:0:0:0:0:0:0:1 - - [05/Jul/2016:15:23:16 -0400] "GET /turbine-web-1.0.0/turbine.stream?cluster=GeneralCmsHystrixCluster HTTP/1.1" 200 83331
